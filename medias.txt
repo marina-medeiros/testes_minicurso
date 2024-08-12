@@ -1,0 +1,7 @@
+insira as notas
+
+soma = n1 + n2 + n3
+
+media = soma / 3
+
+#comentario
