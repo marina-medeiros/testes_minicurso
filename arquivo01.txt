@@ -12,6 +12,8 @@ função multiplicação(a, b){
 
 função divisão(a, b){
     return a/b;
+{
+    algo relacionado a cálculo
 }
 
 #comentário
