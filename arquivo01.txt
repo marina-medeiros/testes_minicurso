@@ -10,4 +10,8 @@ função multiplicação(a, b){
     return a*b;
 }
 
+função divisão(a, b){
+    return a/b;
+}
+
 #comentário
