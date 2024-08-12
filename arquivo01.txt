@@ -5,3 +5,7 @@ função soma(a, b){
 função subtração(a, b){
     return a-b;
 }
+
+função multiplicação(a, b){
+    return a*b;
+}
